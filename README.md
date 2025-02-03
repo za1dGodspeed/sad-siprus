@@ -11,7 +11,7 @@ SIPRUS adalah aplikasi berbasis web yang dirancang untuk memudahkan proses pemin
 ## Teknologi yang Digunakan
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP, MySQL
-- **Framework**: Bootstrap, Laravel
+- **Framework**: Laravel
 
 ## Cara Menggunakan
 1. **Registrasi**: Daftar akun baru atau login jika sudah memiliki akun.
